@@ -14,6 +14,14 @@ header {
   text-align: center;
   padding: 20px 0;
 }
+.banner{
+    height: 100%;
+    width: 100%;
+}
+img {
+    height: 100%;
+    width: 100%;
+}
 
 header h1 {
   margin: 0;
@@ -81,7 +89,7 @@ ul li em {
 }
 
 .image-section img {
-  max-width: 100%;
+  max-width: 50%;
   height: auto;
   border-radius: 5px;
 }
@@ -109,5 +117,13 @@ footer {
 
   nav ul li {
     margin: 10px 0;
-  }
 }
+
+.video-section h2 {
+  color: #003366;
+  margin-bottom: 15px;
+}
+
+
+
+
