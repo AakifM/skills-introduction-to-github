@@ -94,6 +94,7 @@ ul li em {
   max-width: 50%;
   height: auto;
   border-radius: 5px;
+   border: 2px solid black;
 }
 
 .caption {
@@ -120,4 +121,4 @@ footer {
   nav ul li {
     margin: 10px 0;
   }
-}
+
